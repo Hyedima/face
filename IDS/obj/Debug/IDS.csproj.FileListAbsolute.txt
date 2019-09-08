@@ -1,0 +1,204 @@
+C:\.Net Projects\IDS\IDS\bin\Debug\IDS.exe.config
+C:\.Net Projects\IDS\IDS\bin\Debug\IDS.exe
+C:\.Net Projects\IDS\IDS\bin\Debug\IDS.pdb
+C:\.Net Projects\IDS\IDS\obj\Debug\IDS.EditPersonFrm.resources
+C:\.Net Projects\IDS\IDS\obj\Debug\IDS.Form1.resources
+C:\.Net Projects\IDS\IDS\obj\Debug\IDS.ListPersonFrm.resources
+C:\.Net Projects\IDS\IDS\obj\Debug\IDS.MainFrm.resources
+C:\.Net Projects\IDS\IDS\obj\Debug\IDS.PersonFrm.resources
+C:\.Net Projects\IDS\IDS\obj\Debug\IDS.Properties.Resources.resources
+C:\.Net Projects\IDS\IDS\obj\Debug\IDS.csproj.GenerateResource.Cache
+C:\.Net Projects\IDS\IDS\obj\Debug\IDS.exe
+C:\.Net Projects\IDS\IDS\obj\Debug\IDS.pdb
+C:\.Net Projects\IDS\IDS\obj\Debug\IDS.csprojResolveAssemblyReference.cache
+D:\XtensiveNG\Projects\VS2015\C#\Facial Recognition\IDS\IDS\bin\Debug\IDS.exe.config
+D:\XtensiveNG\Projects\VS2015\C#\Facial Recognition\IDS\IDS\bin\Debug\IDS.exe
+D:\XtensiveNG\Projects\VS2015\C#\Facial Recognition\IDS\IDS\bin\Debug\IDS.pdb
+D:\XtensiveNG\Projects\VS2015\C#\Facial Recognition\IDS\IDS\bin\Debug\FaceSDK.NET.dll
+D:\XtensiveNG\Projects\VS2015\C#\Facial Recognition\IDS\IDS\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\XtensiveNG\Projects\VS2015\C#\Facial Recognition\IDS\IDS\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\XtensiveNG\Projects\VS2015\C#\Facial Recognition\IDS\IDS\bin\Debug\Newtonsoft.Json.dll
+D:\XtensiveNG\Projects\VS2015\C#\Facial Recognition\IDS\IDS\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\XtensiveNG\Projects\VS2015\C#\Facial Recognition\IDS\IDS\bin\Debug\Twilio.dll
+D:\XtensiveNG\Projects\VS2015\C#\Facial Recognition\IDS\IDS\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\XtensiveNG\Projects\VS2015\C#\Facial Recognition\IDS\IDS\bin\Debug\Newtonsoft.Json.xml
+D:\XtensiveNG\Projects\VS2015\C#\Facial Recognition\IDS\IDS\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\XtensiveNG\Projects\VS2015\C#\Facial Recognition\IDS\IDS\bin\Debug\Twilio.xml
+D:\XtensiveNG\Projects\VS2015\C#\Facial Recognition\IDS\IDS\obj\Debug\IDS.csprojResolveAssemblyReference.cache
+D:\XtensiveNG\Projects\VS2015\C#\Facial Recognition\IDS\IDS\obj\Debug\IDS.ActivateFrm.resources
+D:\XtensiveNG\Projects\VS2015\C#\Facial Recognition\IDS\IDS\obj\Debug\IDS.EditPersonFrm.resources
+D:\XtensiveNG\Projects\VS2015\C#\Facial Recognition\IDS\IDS\obj\Debug\IDS.EyeFrm.resources
+D:\XtensiveNG\Projects\VS2015\C#\Facial Recognition\IDS\IDS\obj\Debug\IDS.Form1.resources
+D:\XtensiveNG\Projects\VS2015\C#\Facial Recognition\IDS\IDS\obj\Debug\IDS.InputName.resources
+D:\XtensiveNG\Projects\VS2015\C#\Facial Recognition\IDS\IDS\obj\Debug\IDS.ListPersonFrm.resources
+D:\XtensiveNG\Projects\VS2015\C#\Facial Recognition\IDS\IDS\obj\Debug\IDS.MainFrm.resources
+D:\XtensiveNG\Projects\VS2015\C#\Facial Recognition\IDS\IDS\obj\Debug\IDS.PersonFrm.resources
+D:\XtensiveNG\Projects\VS2015\C#\Facial Recognition\IDS\IDS\obj\Debug\IDS.Properties.Resources.resources
+D:\XtensiveNG\Projects\VS2015\C#\Facial Recognition\IDS\IDS\obj\Debug\IDS.TrainFrm.resources
+D:\XtensiveNG\Projects\VS2015\C#\Facial Recognition\IDS\IDS\obj\Debug\IDS.csproj.GenerateResource.Cache
+D:\XtensiveNG\Projects\VS2015\C#\Facial Recognition\IDS\IDS\obj\Debug\IDS.exe
+D:\XtensiveNG\Projects\VS2015\C#\Facial Recognition\IDS\IDS\obj\Debug\IDS.pdb
+D:\XtensiveNG\Projects\VS2015\C#\Facial Recognition\IDS\IDS\bin\Debug\TwilioApp.exe
+D:\XtensiveNG\Projects\VS2015\C#\Facial Recognition\IDS\IDS\bin\Debug\TwilioApp.pdb
+C:\Users\MICHEAL\Desktop\Easy\IDS\IDS\bin\Debug\IDS.exe.config
+C:\Users\MICHEAL\Desktop\Easy\IDS\IDS\obj\Debug\IDS.exe
+C:\Users\MICHEAL\Desktop\Easy\IDS\IDS\obj\Debug\IDS.pdb
+C:\Users\MICHEAL\Desktop\Easy\IDS\IDS\bin\Debug\IDS.exe
+C:\Users\MICHEAL\Desktop\Easy\IDS\IDS\bin\Debug\IDS.pdb
+C:\Users\MICHEAL\Desktop\Easy\IDS\IDS\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\MICHEAL\Desktop\Easy\IDS\IDS\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MICHEAL\Desktop\Easy\IDS\IDS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MICHEAL\Desktop\Easy\IDS\IDS\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MICHEAL\Desktop\Easy\IDS\IDS\bin\Debug\Twilio.dll
+C:\Users\MICHEAL\Desktop\Easy\IDS\IDS\bin\Debug\TwilioApp.exe
+C:\Users\MICHEAL\Desktop\Easy\IDS\IDS\bin\Debug\TwilioApp.pdb
+C:\Users\MICHEAL\Desktop\Easy\IDS\IDS\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\MICHEAL\Desktop\Easy\IDS\IDS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MICHEAL\Desktop\Easy\IDS\IDS\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\MICHEAL\Desktop\Easy\IDS\IDS\bin\Debug\Twilio.xml
+C:\Users\MICHEAL\Desktop\Easy\IDS\IDS\obj\Debug\IDS.csprojResolveAssemblyReference.cache
+C:\Users\MICHEAL\Desktop\Easy\IDS\IDS\obj\Debug\IDS.ActivateFrm.resources
+C:\Users\MICHEAL\Desktop\Easy\IDS\IDS\obj\Debug\IDS.EditPersonFrm.resources
+C:\Users\MICHEAL\Desktop\Easy\IDS\IDS\obj\Debug\IDS.EyeFrm.resources
+C:\Users\MICHEAL\Desktop\Easy\IDS\IDS\obj\Debug\IDS.Form1.resources
+C:\Users\MICHEAL\Desktop\Easy\IDS\IDS\obj\Debug\IDS.InputName.resources
+C:\Users\MICHEAL\Desktop\Easy\IDS\IDS\obj\Debug\IDS.ListPersonFrm.resources
+C:\Users\MICHEAL\Desktop\Easy\IDS\IDS\obj\Debug\IDS.MainFrm.resources
+C:\Users\MICHEAL\Desktop\Easy\IDS\IDS\obj\Debug\IDS.PersonFrm.resources
+C:\Users\MICHEAL\Desktop\Easy\IDS\IDS\obj\Debug\IDS.Properties.Resources.resources
+C:\Users\MICHEAL\Desktop\Easy\IDS\IDS\obj\Debug\IDS.TrainFrm.resources
+C:\Users\MICHEAL\Desktop\Easy\IDS\IDS\obj\Debug\IDS.csproj.GenerateResource.Cache
+C:\Easy\IDS\IDS\bin\Debug\IDS.exe.config
+C:\Easy\IDS\IDS\bin\Debug\IDS.exe
+C:\Easy\IDS\IDS\bin\Debug\IDS.pdb
+C:\Easy\IDS\IDS\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Easy\IDS\IDS\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Easy\IDS\IDS\bin\Debug\Newtonsoft.Json.dll
+C:\Easy\IDS\IDS\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Easy\IDS\IDS\bin\Debug\Twilio.dll
+C:\Easy\IDS\IDS\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Easy\IDS\IDS\bin\Debug\Newtonsoft.Json.xml
+C:\Easy\IDS\IDS\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Easy\IDS\IDS\bin\Debug\Twilio.xml
+C:\Easy\IDS\IDS\obj\Debug\IDS.csprojResolveAssemblyReference.cache
+C:\Easy\IDS\IDS\obj\Debug\IDS.ActivateFrm.resources
+C:\Easy\IDS\IDS\obj\Debug\IDS.EditPersonFrm.resources
+C:\Easy\IDS\IDS\obj\Debug\IDS.EyeFrm.resources
+C:\Easy\IDS\IDS\obj\Debug\IDS.Form1.resources
+C:\Easy\IDS\IDS\obj\Debug\IDS.InputName.resources
+C:\Easy\IDS\IDS\obj\Debug\IDS.ListPersonFrm.resources
+C:\Easy\IDS\IDS\obj\Debug\IDS.MainFrm.resources
+C:\Easy\IDS\IDS\obj\Debug\IDS.PersonFrm.resources
+C:\Easy\IDS\IDS\obj\Debug\IDS.Properties.Resources.resources
+C:\Easy\IDS\IDS\obj\Debug\IDS.TrainFrm.resources
+C:\Easy\IDS\IDS\obj\Debug\IDS.csproj.GenerateResource.Cache
+C:\Easy\IDS\IDS\obj\Debug\IDS.exe
+C:\Easy\IDS\IDS\obj\Debug\IDS.pdb
+D:\EASY\abrak\Easy\IDS\IDS\bin\Debug\IDS.exe.config
+D:\EASY\abrak\Easy\IDS\IDS\obj\Debug\IDS.exe
+D:\EASY\abrak\Easy\IDS\IDS\obj\Debug\IDS.pdb
+D:\EASY\abrak\Easy\IDS\IDS\bin\Debug\IDS.exe
+D:\EASY\abrak\Easy\IDS\IDS\bin\Debug\IDS.pdb
+D:\EASY\abrak\Easy\IDS\IDS\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\EASY\abrak\Easy\IDS\IDS\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\EASY\abrak\Easy\IDS\IDS\bin\Debug\Newtonsoft.Json.dll
+D:\EASY\abrak\Easy\IDS\IDS\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\EASY\abrak\Easy\IDS\IDS\bin\Debug\Twilio.dll
+D:\EASY\abrak\Easy\IDS\IDS\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\EASY\abrak\Easy\IDS\IDS\bin\Debug\Newtonsoft.Json.xml
+D:\EASY\abrak\Easy\IDS\IDS\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\EASY\abrak\Easy\IDS\IDS\bin\Debug\Twilio.xml
+D:\EASY\abrak\Easy\IDS\IDS\obj\Debug\IDS.csprojResolveAssemblyReference.cache
+D:\EASY\abrak\Easy\IDS\IDS\obj\Debug\IDS.ActivateFrm.resources
+D:\EASY\abrak\Easy\IDS\IDS\obj\Debug\IDS.EditPersonFrm.resources
+D:\EASY\abrak\Easy\IDS\IDS\obj\Debug\IDS.EyeFrm.resources
+D:\EASY\abrak\Easy\IDS\IDS\obj\Debug\IDS.Form1.resources
+D:\EASY\abrak\Easy\IDS\IDS\obj\Debug\IDS.InputName.resources
+D:\EASY\abrak\Easy\IDS\IDS\obj\Debug\IDS.ListPersonFrm.resources
+D:\EASY\abrak\Easy\IDS\IDS\obj\Debug\IDS.MainFrm.resources
+D:\EASY\abrak\Easy\IDS\IDS\obj\Debug\IDS.PersonFrm.resources
+D:\EASY\abrak\Easy\IDS\IDS\obj\Debug\IDS.Properties.Resources.resources
+D:\EASY\abrak\Easy\IDS\IDS\obj\Debug\IDS.TrainFrm.resources
+D:\EASY\abrak\Easy\IDS\IDS\obj\Debug\IDS.csproj.GenerateResource.Cache
+D:\EASY\abrak\Easy\IDS\IDS\obj\Debug\IDS.frm_test.resources
+E:\abrak\Easy\IDS\IDS\bin\Debug\IDS.exe.config
+E:\abrak\Easy\IDS\IDS\obj\Debug\IDS.exe
+E:\abrak\Easy\IDS\IDS\obj\Debug\IDS.pdb
+E:\abrak\Easy\IDS\IDS\bin\Debug\IDS.exe
+E:\abrak\Easy\IDS\IDS\bin\Debug\IDS.pdb
+E:\abrak\Easy\IDS\IDS\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\abrak\Easy\IDS\IDS\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\abrak\Easy\IDS\IDS\bin\Debug\Newtonsoft.Json.dll
+E:\abrak\Easy\IDS\IDS\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\abrak\Easy\IDS\IDS\bin\Debug\Twilio.dll
+E:\abrak\Easy\IDS\IDS\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\abrak\Easy\IDS\IDS\bin\Debug\Newtonsoft.Json.xml
+E:\abrak\Easy\IDS\IDS\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\abrak\Easy\IDS\IDS\bin\Debug\Twilio.xml
+E:\abrak\Easy\IDS\IDS\obj\Debug\IDS.csprojResolveAssemblyReference.cache
+E:\abrak\Easy\IDS\IDS\obj\Debug\IDS.ActivateFrm.resources
+E:\abrak\Easy\IDS\IDS\obj\Debug\IDS.EditPersonFrm.resources
+E:\abrak\Easy\IDS\IDS\obj\Debug\IDS.EyeFrm.resources
+E:\abrak\Easy\IDS\IDS\obj\Debug\IDS.Form1.resources
+E:\abrak\Easy\IDS\IDS\obj\Debug\IDS.frm_test.resources
+E:\abrak\Easy\IDS\IDS\obj\Debug\IDS.InputName.resources
+E:\abrak\Easy\IDS\IDS\obj\Debug\IDS.ListPersonFrm.resources
+E:\abrak\Easy\IDS\IDS\obj\Debug\IDS.MainFrm.resources
+E:\abrak\Easy\IDS\IDS\obj\Debug\IDS.PersonFrm.resources
+E:\abrak\Easy\IDS\IDS\obj\Debug\IDS.Properties.Resources.resources
+E:\abrak\Easy\IDS\IDS\obj\Debug\IDS.TrainFrm.resources
+E:\abrak\Easy\IDS\IDS\obj\Debug\IDS.csproj.GenerateResource.Cache
+C:\Users\DM\Desktop\abrak\Easy\IDS\IDS\bin\Debug\IDS.exe.config
+C:\Users\DM\Desktop\abrak\Easy\IDS\IDS\obj\Debug\IDS.exe
+C:\Users\DM\Desktop\abrak\Easy\IDS\IDS\obj\Debug\IDS.pdb
+C:\Users\DM\Desktop\abrak\Easy\IDS\IDS\bin\Debug\IDS.exe
+C:\Users\DM\Desktop\abrak\Easy\IDS\IDS\bin\Debug\IDS.pdb
+C:\Users\DM\Desktop\abrak\Easy\IDS\IDS\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\DM\Desktop\abrak\Easy\IDS\IDS\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DM\Desktop\abrak\Easy\IDS\IDS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DM\Desktop\abrak\Easy\IDS\IDS\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DM\Desktop\abrak\Easy\IDS\IDS\bin\Debug\Twilio.dll
+C:\Users\DM\Desktop\abrak\Easy\IDS\IDS\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\DM\Desktop\abrak\Easy\IDS\IDS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DM\Desktop\abrak\Easy\IDS\IDS\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\DM\Desktop\abrak\Easy\IDS\IDS\bin\Debug\Twilio.xml
+C:\Users\DM\Desktop\abrak\Easy\IDS\IDS\obj\Debug\IDS.csprojResolveAssemblyReference.cache
+C:\Users\DM\Desktop\abrak\Easy\IDS\IDS\obj\Debug\IDS.ActivateFrm.resources
+C:\Users\DM\Desktop\abrak\Easy\IDS\IDS\obj\Debug\IDS.EditPersonFrm.resources
+C:\Users\DM\Desktop\abrak\Easy\IDS\IDS\obj\Debug\IDS.EyeFrm.resources
+C:\Users\DM\Desktop\abrak\Easy\IDS\IDS\obj\Debug\IDS.Form1.resources
+C:\Users\DM\Desktop\abrak\Easy\IDS\IDS\obj\Debug\IDS.frm_test.resources
+C:\Users\DM\Desktop\abrak\Easy\IDS\IDS\obj\Debug\IDS.InputName.resources
+C:\Users\DM\Desktop\abrak\Easy\IDS\IDS\obj\Debug\IDS.ListPersonFrm.resources
+C:\Users\DM\Desktop\abrak\Easy\IDS\IDS\obj\Debug\IDS.MainFrm.resources
+C:\Users\DM\Desktop\abrak\Easy\IDS\IDS\obj\Debug\IDS.PersonFrm.resources
+C:\Users\DM\Desktop\abrak\Easy\IDS\IDS\obj\Debug\IDS.Properties.Resources.resources
+C:\Users\DM\Desktop\abrak\Easy\IDS\IDS\obj\Debug\IDS.TrainFrm.resources
+C:\Users\DM\Desktop\abrak\Easy\IDS\IDS\obj\Debug\IDS.csproj.GenerateResource.Cache
+C:\Users\DM\Documents\Visual Studio 2015\Projects\FacialRecognition\IDS\bin\Debug\IDS.exe.config
+C:\Users\DM\Documents\Visual Studio 2015\Projects\FacialRecognition\IDS\obj\Debug\IDS.exe
+C:\Users\DM\Documents\Visual Studio 2015\Projects\FacialRecognition\IDS\obj\Debug\IDS.pdb
+C:\Users\DM\Documents\Visual Studio 2015\Projects\FacialRecognition\IDS\bin\Debug\IDS.exe
+C:\Users\DM\Documents\Visual Studio 2015\Projects\FacialRecognition\IDS\bin\Debug\IDS.pdb
+C:\Users\DM\Documents\Visual Studio 2015\Projects\FacialRecognition\IDS\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\DM\Documents\Visual Studio 2015\Projects\FacialRecognition\IDS\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DM\Documents\Visual Studio 2015\Projects\FacialRecognition\IDS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DM\Documents\Visual Studio 2015\Projects\FacialRecognition\IDS\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DM\Documents\Visual Studio 2015\Projects\FacialRecognition\IDS\bin\Debug\Twilio.dll
+C:\Users\DM\Documents\Visual Studio 2015\Projects\FacialRecognition\IDS\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\DM\Documents\Visual Studio 2015\Projects\FacialRecognition\IDS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DM\Documents\Visual Studio 2015\Projects\FacialRecognition\IDS\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\DM\Documents\Visual Studio 2015\Projects\FacialRecognition\IDS\bin\Debug\Twilio.xml
+C:\Users\DM\Documents\Visual Studio 2015\Projects\FacialRecognition\IDS\obj\Debug\IDS.csprojResolveAssemblyReference.cache
+C:\Users\DM\Documents\Visual Studio 2015\Projects\FacialRecognition\IDS\obj\Debug\IDS.ActivateFrm.resources
+C:\Users\DM\Documents\Visual Studio 2015\Projects\FacialRecognition\IDS\obj\Debug\IDS.EditPersonFrm.resources
+C:\Users\DM\Documents\Visual Studio 2015\Projects\FacialRecognition\IDS\obj\Debug\IDS.EyeFrm.resources
+C:\Users\DM\Documents\Visual Studio 2015\Projects\FacialRecognition\IDS\obj\Debug\IDS.Form1.resources
+C:\Users\DM\Documents\Visual Studio 2015\Projects\FacialRecognition\IDS\obj\Debug\IDS.frm_test.resources
+C:\Users\DM\Documents\Visual Studio 2015\Projects\FacialRecognition\IDS\obj\Debug\IDS.InputName.resources
+C:\Users\DM\Documents\Visual Studio 2015\Projects\FacialRecognition\IDS\obj\Debug\IDS.ListPersonFrm.resources
+C:\Users\DM\Documents\Visual Studio 2015\Projects\FacialRecognition\IDS\obj\Debug\IDS.MainFrm.resources
+C:\Users\DM\Documents\Visual Studio 2015\Projects\FacialRecognition\IDS\obj\Debug\IDS.PersonFrm.resources
+C:\Users\DM\Documents\Visual Studio 2015\Projects\FacialRecognition\IDS\obj\Debug\IDS.Properties.Resources.resources
+C:\Users\DM\Documents\Visual Studio 2015\Projects\FacialRecognition\IDS\obj\Debug\IDS.TrainFrm.resources
+C:\Users\DM\Documents\Visual Studio 2015\Projects\FacialRecognition\IDS\obj\Debug\IDS.csproj.GenerateResource.Cache
